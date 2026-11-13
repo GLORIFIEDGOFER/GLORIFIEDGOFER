@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @GLORIFIEDGOFER
-- 👀 I’m interested in GETTING INTO CODING AND CONTRIBUTING TO THE COMMUNITY
-- 🌱 I’m currently learning ELIXIR, PHOENIX, LIVEVIEW and XCODE 
-- 💞️ I’m looking to collaborate on DESIGNING UX/IU'S FOR COOL APPS, I'M A VISUAL DESIGNER GETTING INTO CODING 
-- 📫 How to reach me EMAIL ME ANYTIME AT simon@planourescape.com
+- 👀 I build scalable AI driven digital platforms in Elixir and React
+- 🌱 I’ve been a product manager and digital product design for 15 years
 
 <!---
 GLORIFIEDGOFER/GLORIFIEDGOFER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
